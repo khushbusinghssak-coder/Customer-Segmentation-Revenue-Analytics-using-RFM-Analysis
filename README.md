@@ -94,10 +94,6 @@ Built an interactive Power BI dashboard showing:
 
 ---
 
-## Dashboard Preview
-(Add screenshot here)
-
----
 
 ## Author
 Khushbu Kumari
